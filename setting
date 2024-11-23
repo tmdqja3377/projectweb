@@ -1,0 +1,10 @@
+환경 설정하기
+
+node.js 설치
+vscode 설치
+vscode에 es7 or es7+설치하기
+깃허브 연동하기 / 깃설치하기
+git bash 터미널에
+  npm install
+  npm start
+입력하여 웹사이트 자신의 localhost로 열기
